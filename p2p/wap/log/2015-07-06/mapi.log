@@ -1,0 +1,8575 @@
+06:41:15	
+06:41:15	
+06:41:15	NULL
+
+06:41:30	
+06:41:30	
+06:41:30	NULL
+
+06:42:00	
+06:42:00	
+06:42:00	NULL
+
+06:42:26	
+06:42:26	
+06:42:26	NULL
+
+06:42:31	
+06:42:31	
+06:42:31	NULL
+
+06:42:51	
+06:42:51	
+06:42:51	NULL
+
+06:42:54	
+06:42:54	
+06:42:54	NULL
+
+06:46:38	
+06:46:38	
+06:46:38	NULL
+
+06:46:44	
+06:46:44	
+06:46:44	NULL
+
+06:46:46	
+06:46:46	
+06:46:46	NULL
+
+06:47:01	
+06:47:01	
+06:47:01	NULL
+
+06:47:28	
+06:47:28	
+06:47:28	NULL
+
+06:47:58	
+06:47:58	
+06:47:58	NULL
+
+06:48:06	
+06:48:06	
+06:48:06	NULL
+
+06:48:08	
+06:48:08	
+06:48:08	NULL
+
+06:48:32	
+06:48:32	
+06:48:32	NULL
+
+06:49:34	
+06:49:34	
+06:49:34	NULL
+
+06:49:36	php0731
+06:49:36	b9c2712c3a859bc0f222fa87e37d1ce4
+06:49:36	=======1=======
+06:49:36	========2=========
+06:49:36	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:50:32	php0731
+06:50:32	b9c2712c3a859bc0f222fa87e37d1ce4
+06:50:32	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:50:40	php0731
+06:50:40	b9c2712c3a859bc0f222fa87e37d1ce4
+06:50:40	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:40	php0731
+06:51:40	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:40	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:46	php0731
+06:51:46	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:46	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:49	php0731
+06:51:49	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:49	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:50	php0731
+06:51:50	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:50	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:51	php0731
+06:51:51	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:51	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:52	php0731
+06:51:52	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:52	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:53	php0731
+06:51:53	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:53	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:55	php0731
+06:51:55	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:55	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:51:56	php0731
+06:51:56	b9c2712c3a859bc0f222fa87e37d1ce4
+06:51:56	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:52:03	php0731
+06:52:03	b9c2712c3a859bc0f222fa87e37d1ce4
+06:52:03	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:52:17	php0731
+06:52:17	b9c2712c3a859bc0f222fa87e37d1ce4
+06:52:17	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:52:23	php0731
+06:52:23	b9c2712c3a859bc0f222fa87e37d1ce4
+06:52:23	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:52:25	php0731
+06:52:25	b9c2712c3a859bc0f222fa87e37d1ce4
+06:52:25	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:52:43	php0731
+06:52:43	b9c2712c3a859bc0f222fa87e37d1ce4
+06:52:43	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:03	php0731
+06:53:03	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:03	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:31	php0731
+06:53:31	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:31	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:36	php0731
+06:53:36	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:36	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:37	php0731
+06:53:37	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:37	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:43	php0731
+06:53:43	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:43	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:48	php0731
+06:53:48	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:48	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:53:49	php0731
+06:53:49	b9c2712c3a859bc0f222fa87e37d1ce4
+06:53:49	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:54:09	php0731
+06:54:09	b9c2712c3a859bc0f222fa87e37d1ce4
+06:54:09	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:54:09	php0731
+06:54:09	b9c2712c3a859bc0f222fa87e37d1ce4
+06:54:09	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
+06:54:09	php0731
+06:54:09	b9c2712c3a859bc0f222fa87e37d1ce4
+06:54:09	array(155) {
+  ["id"]=>
+  string(2) "10"
+  ["user_name"]=>
+  string(7) "php0731"
+  ["short_name"]=>
+  NULL
+  ["brief"]=>
+  NULL
+  ["header"]=>
+  NULL
+  ["company_brief"]=>
+  NULL
+  ["history"]=>
+  NULL
+  ["content"]=>
+  NULL
+  ["sort"]=>
+  NULL
+  ["acct_type"]=>
+  NULL
+  ["user_pwd"]=>
+  string(32) "d6844d9a628a8cf27db483c181d9c926"
+  ["create_time"]=>
+  string(10) "1436107774"
+  ["update_time"]=>
+  string(10) "1436107774"
+  ["login_ip"]=>
+  string(12) "121.41.53.91"
+  ["group_id"]=>
+  string(1) "1"
+  ["is_effect"]=>
+  string(1) "1"
+  ["is_delete"]=>
+  string(1) "0"
+  ["email"]=>
+  string(13) "10@5maiche.cn"
+  ["idno"]=>
+  NULL
+  ["idcardpassed"]=>
+  string(1) "0"
+  ["idcardpassed_time"]=>
+  string(1) "0"
+  ["real_name"]=>
+  NULL
+  ["mobile"]=>
+  NULL
+  ["mobilepassed"]=>
+  string(1) "1"
+  ["score"]=>
+  string(1) "0"
+  ["money"]=>
+  NULL
+  ["quota"]=>
+  string(1) "0"
+  ["lock_money"]=>
+  string(5) "10.00"
+  ["verify"]=>
+  string(0) ""
+  ["code"]=>
+  string(0) ""
+  ["pid"]=>
+  string(1) "0"
+  ["referer_memo"]=>
+  string(0) ""
+  ["login_time"]=>
+  string(10) "1436107774"
+  ["referral_count"]=>
+  string(1) "0"
+  ["password_verify"]=>
+  string(0) ""
+  ["integrate_id"]=>
+  string(1) "0"
+  ["sina_id"]=>
+  string(0) ""
+  ["renren_id"]=>
+  string(1) "0"
+  ["kaixin_id"]=>
+  string(1) "0"
+  ["sohu_id"]=>
+  string(1) "0"
+  ["bind_verify"]=>
+  string(0) ""
+  ["verify_create_time"]=>
+  string(1) "0"
+  ["tencent_id"]=>
+  string(0) ""
+  ["referer"]=>
+  string(0) ""
+  ["login_pay_time"]=>
+  string(1) "0"
+  ["focus_count"]=>
+  string(1) "0"
+  ["focused_count"]=>
+  string(1) "0"
+  ["n_province_id"]=>
+  string(1) "0"
+  ["n_city_id"]=>
+  string(1) "0"
+  ["province_id"]=>
+  string(1) "0"
+  ["city_id"]=>
+  string(1) "0"
+  ["sex"]=>
+  string(2) "-1"
+  ["step"]=>
+  string(1) "0"
+  ["byear"]=>
+  string(1) "0"
+  ["bmonth"]=>
+  string(1) "0"
+  ["bday"]=>
+  string(1) "0"
+  ["graduation"]=>
+  string(0) ""
+  ["graduatedyear"]=>
+  string(1) "0"
+  ["university"]=>
+  string(0) ""
+  ["edu_validcode"]=>
+  string(0) ""
+  ["has_send_video"]=>
+  string(1) "0"
+  ["marriage"]=>
+  string(0) ""
+  ["haschild"]=>
+  string(1) "0"
+  ["hashouse"]=>
+  string(1) "0"
+  ["houseloan"]=>
+  string(1) "0"
+  ["hascar"]=>
+  string(1) "0"
+  ["carloan"]=>
+  string(1) "0"
+  ["car_brand"]=>
+  string(0) ""
+  ["car_year"]=>
+  string(1) "0"
+  ["car_number"]=>
+  string(0) ""
+  ["address"]=>
+  string(0) ""
+  ["phone"]=>
+  string(0) ""
+  ["postcode"]=>
+  string(0) ""
+  ["locate_time"]=>
+  string(1) "0"
+  ["xpoint"]=>
+  string(8) "0.000000"
+  ["ypoint"]=>
+  string(8) "0.000000"
+  ["topic_count"]=>
+  string(1) "0"
+  ["fav_count"]=>
+  string(1) "0"
+  ["faved_count"]=>
+  string(1) "0"
+  ["insite_count"]=>
+  string(1) "0"
+  ["outsite_count"]=>
+  string(1) "0"
+  ["level_id"]=>
+  string(1) "1"
+  ["point"]=>
+  string(2) "20"
+  ["sina_app_key"]=>
+  string(0) ""
+  ["sina_app_secret"]=>
+  string(0) ""
+  ["is_syn_sina"]=>
+  string(0) ""
+  ["tencent_app_key"]=>
+  string(0) ""
+  ["tencent_app_secret"]=>
+  string(0) ""
+  ["is_syn_tencent"]=>
+  string(1) "0"
+  ["t_access_token"]=>
+  string(0) ""
+  ["t_openkey"]=>
+  string(0) ""
+  ["t_openid"]=>
+  string(0) ""
+  ["sina_token"]=>
+  string(0) ""
+  ["is_borrow_out"]=>
+  string(1) "0"
+  ["is_borrow_int"]=>
+  string(1) "0"
+  ["creditpassed"]=>
+  string(1) "0"
+  ["creditpassed_time"]=>
+  string(1) "0"
+  ["workpassed"]=>
+  string(1) "0"
+  ["workpassed_time"]=>
+  string(1) "0"
+  ["incomepassed"]=>
+  string(1) "0"
+  ["incomepassed_time"]=>
+  string(1) "0"
+  ["housepassed"]=>
+  string(1) "0"
+  ["housepassed_time"]=>
+  string(1) "0"
+  ["carpassed"]=>
+  string(1) "0"
+  ["carpassed_time"]=>
+  string(1) "0"
+  ["marrypassed"]=>
+  string(1) "0"
+  ["marrypassed_time"]=>
+  string(1) "0"
+  ["edupassed"]=>
+  string(1) "0"
+  ["edupassed_time"]=>
+  string(1) "0"
+  ["skillpassed"]=>
+  string(1) "0"
+  ["skillpassed_time"]=>
+  string(1) "0"
+  ["videopassed"]=>
+  string(1) "0"
+  ["videopassed_time"]=>
+  string(1) "0"
+  ["mobiletruepassed"]=>
+  string(1) "0"
+  ["mobiletruepassed_time"]=>
+  string(1) "0"
+  ["residencepassed"]=>
+  string(1) "0"
+  ["residencepassed_time"]=>
+  string(1) "0"
+  ["alipay_id"]=>
+  string(0) ""
+  ["qq_id"]=>
+  string(0) ""
+  ["taobao_id"]=>
+  string(0) ""
+  ["info_down"]=>
+  string(0) ""
+  ["sealpassed"]=>
+  string(1) "0"
+  ["paypassword"]=>
+  string(0) ""
+  ["apns_code"]=>
+  NULL
+  ["ips_acct_no"]=>
+  NULL
+  ["emailpassed"]=>
+  string(1) "0"
+  ["tmp_email"]=>
+  string(0) ""
+  ["view_info"]=>
+  string(0) ""
+  ["referral_rate"]=>
+  string(4) "0.00"
+  ["user_type"]=>
+  string(1) "0"
+  ["create_date"]=>
+  string(10) "0000-00-00"
+  ["register_ip"]=>
+  string(0) ""
+  ["admin_id"]=>
+  string(1) "0"
+  ["customer_id"]=>
+  string(1) "0"
+  ["is_black"]=>
+  string(1) "0"
+  ["vip_id"]=>
+  string(1) "0"
+  ["vip_state"]=>
+  string(1) "0"
+  ["nmc_amount"]=>
+  string(4) "0.00"
+  ["ips_mer_code"]=>
+  NULL
+  ["enterpriseName"]=>
+  string(0) ""
+  ["bankLicense"]=>
+  string(0) ""
+  ["orgNo"]=>
+  string(0) ""
+  ["businessLicense"]=>
+  string(0) ""
+  ["taxNo"]=>
+  string(0) ""
+  ["u_year"]=>
+  NULL
+  ["u_special"]=>
+  NULL
+  ["u_alipay"]=>
+  NULL
+  ["email_encrypt"]=>
+  string(16) "äƒðÈ²ÞwqÐùúxP"
+  ["real_name_encrypt"]=>
+  string(0) ""
+  ["idno_encrypt"]=>
+  string(0) ""
+  ["mobile_encrypt"]=>
+  string(0) ""
+  ["money_encrypt"]=>
+  string(0) ""
+  ["wx_openid"]=>
+  string(0) ""
+  ["total_invite_borrow_money"]=>
+  string(4) "0.00"
+  ["total_invite_invest_money"]=>
+  string(4) "0.00"
+}
+
